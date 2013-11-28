@@ -1,6 +1,6 @@
 {
     "name": "hubot-dogeme",
-    "version": "0.0.0",
+    "version": "1.0.0",
 
     "description": "Wow. Such Doge",
     "keywords": [ "doge", "hubot", "hubot-scripts", "meme" ],
