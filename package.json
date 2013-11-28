@@ -1,0 +1,22 @@
+{
+    "name": "hubot-dogeme",
+    "version": "0.0.0",
+
+    "description": "Wow. Such Doge",
+    "keywords": [ "doge", "hubot", "hubot-scripts", "meme" ],
+
+    "author": "Rowan Manning (http://rowanmanning.com/)",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rowanmanning/hubot-dogeme.git"
+    },
+    "homepage": "https://github.com/rowanmanning/hubot-dogeme",
+    "bugs": "https://github.com/rowanmanning/hubot-dogeme/issues",
+
+    "dependencies": {
+        "coffee-script": "~1.6"
+    },
+
+    "main": "./index.coffee"
+}
