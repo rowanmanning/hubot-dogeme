@@ -5,6 +5,14 @@ Hubot Dogeme
 Wow. Such Doge. So Hubot.
 
 
+Install
+-------
+
+- Add `hubot-dogeme` to your Hubot's `package.json`
+- Add `hubot-dogeme` to your Hubot's `external-scripts.json`
+- Wow. Such install.
+
+
 Commands
 --------
 
